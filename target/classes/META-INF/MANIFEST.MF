@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: user
+Build-Jdk: 17
+Implementation-Title: CourseAPI
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: io.springbootquickstart
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/course-api
+Created-By: Maven Integration for Eclipse
+
